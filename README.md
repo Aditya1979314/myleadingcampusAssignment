@@ -1,8 +1,8 @@
-# React + Vite
+# My Leading campus assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is part of the company My leading campus , you can access the site here [Link](https://myleadingcampusassignment.netlify.app/).
 
-Currently, two official plugins are available:
+## Here are some images of the site.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Screenshot (184)](https://github.com/user-attachments/assets/173c4a83-4b2c-4c18-bfb1-79899eaed10c)
+![Screenshot (185)](https://github.com/user-attachments/assets/77e87036-203c-40a8-a9ab-fe28c4ff4f7c)
